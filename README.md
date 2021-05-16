@@ -1,1 +1,1 @@
-# guypierre.github.io
+# Guypierre, poète et sculpteur

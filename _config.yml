@@ -9,3 +9,14 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 theme: jekyll-theme-cayman
+defaults:
+  - scope: # pour toutes les pages
+      path: "" 
+      type: "pages"
+    values:
+      layout: "default"
+  - scope: # pour les actualités
+      path: "actualites"
+      type: "posts"
+    values:
+      layout: "default"
