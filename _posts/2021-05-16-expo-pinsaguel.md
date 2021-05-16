@@ -1,4 +1,5 @@
 ---
+title:  "Exposition à la médiathèque de Pinsaguel"
 excerpt_separator: <!--more-->
 ---
 
