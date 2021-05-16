@@ -16,7 +16,7 @@ defaults:
     values:
       layout: "default"
   - scope: # pour les actualités
-      path: "actualites"
+      path: "_posts"
       type: "posts"
     values:
       layout: "default"
